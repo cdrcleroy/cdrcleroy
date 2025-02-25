@@ -1,4 +1,4 @@
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
+# Hello World!, I'm Cédric, a French Web Developer 👋🏼:
 
 - 🔭 I’m currently working on my own [webpage]([https://www.tobiasmeyhoefer.de](https://cdrcleroy.github.io/personal-website/))
 - 👨🏼‍💻 I'm working as a web developer since 2024
