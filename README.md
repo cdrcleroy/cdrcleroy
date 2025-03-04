@@ -1,6 +1,6 @@
 # Hello World!, I'm Cedric, a French Web Developer 👋🏼
 
-- 🔭 I’m currently working on my own [webpage]([https://cdrcleroy.github.io/personal-website/](https://cdrcleroy.github.io/personal-website/))
+- 🔭 I’m currently working on my own [webpage](https://cdrcleroy.github.io/personal-website/)
 - 👨🏼‍💻 I'm working as a web developer since 2024
 - 📫 How to reach me: <cdrc.leroy@gmail.com>
 
