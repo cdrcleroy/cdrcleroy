@@ -12,9 +12,3 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdrcleroy&layout=compact&theme=cobalt)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdrcleroy/cdrcleroy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdrcleroy/cdrcleroy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/cdrcleroy/cdrcleroy/output/github-snake.svg" />
-</picture>
